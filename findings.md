@@ -29,3 +29,29 @@ Different CRISPR combinations can produce different editing outcomes because gui
 Additionally, DNA accessibility and the cell's DNA repair mechanisms can influence whether the intended correction occurs.
 
 This may explain why SpCas9(HF4) + sg#1 achieved the highest precise genomic HDR percentage in the four combinations compared.
+
+
+## Overall Editing Efficiency and Limitations
+
+### Overall correction efficiency
+
+Although SpCas9(HF4) + sg#1 achieved 49.63% precise HDR in the genomic-locus comparison, the overall HDR frequency across CFTR alleles was much lower.
+
+The researchers reported:
+- 1.42% best HDR frequency in CFTE29o- cells.
+- 2.38% best HDR frequency in patient-derived iPSCs.
+
+These percentages use different denominators from the 49.63% result. This demonstrates why the measurement method must be considered when interpreting gene-editing results.
+
+### Limitations
+
+1. Overall correction efficiency was low.
+2. Different cell types produced different editing outcomes.
+3. Some repair events introduced additional DNA changes instead of only restoring the missing sequence.
+4. The experiments were conducted in laboratory cells and did not establish clinical safety or effectiveness in patients.
+
+### Scientific conclusion
+
+The study demonstrated that CRISPR-Cas9 could precisely restore the F508del sequence in laboratory cell models. However, the low overall correction frequency showed that improving editing efficiency remained an important challenge.
+
+The results were promising proof-of-concept findings, not evidence of a ready-to-use cure for cystic fibrosis.
