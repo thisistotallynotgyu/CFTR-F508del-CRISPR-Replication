@@ -20,3 +20,12 @@ However, this does not mean that 49.63% of all cells were successfully corrected
 ## Conclusion so far
 
 The SpCas9(HF4) + sg#1 combination was the strongest performer in this comparison. Further analysis is needed to understand the overall correction frequency and the limitations of the approach.
+
+
+## Why did the CRISPR combinations produce different results?
+
+Different CRISPR combinations can produce different editing outcomes because guide RNAs differ in how well they recognise and bind their target DNA sequences. Different Cas9 variants can also recognise different PAM sequences and have different cutting characteristics.
+
+Additionally, DNA accessibility and the cell's DNA repair mechanisms can influence whether the intended correction occurs.
+
+This may explain why SpCas9(HF4) + sg#1 achieved the highest precise genomic HDR percentage in the four combinations compared.
