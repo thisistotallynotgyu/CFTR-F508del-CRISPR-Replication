@@ -55,3 +55,12 @@ These percentages use different denominators from the 49.63% result. This demons
 The study demonstrated that CRISPR-Cas9 could precisely restore the F508del sequence in laboratory cell models. However, the low overall correction frequency showed that improving editing efficiency remained an important challenge.
 
 The results were promising proof-of-concept findings, not evidence of a ready-to-use cure for cystic fibrosis.
+
+
+## Personal Research Reflection
+
+Through this experiment, I learned that successful gene editing does not necessarily mean that a large percentage of all cells have been corrected. I discovered the importance of understanding how scientific percentages are calculated and why their denominators matter.
+
+I also learned that CRISPR-Cas9 can restore a disease-associated DNA sequence in laboratory cells, but editing efficiency and accuracy remain important challenges.
+
+This project helped me understand both the potential and limitations of CRISPR gene editing.
